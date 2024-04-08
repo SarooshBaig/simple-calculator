@@ -1,0 +1,16 @@
+{
+  "name": "simple-calculator-3",
+  "version": "1.0.0",
+  "description": "this is a simple calcutor with typescript,Node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saroosh rizwan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
